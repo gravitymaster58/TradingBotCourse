@@ -1,0 +1,79 @@
+2023-01-27 19:33:03,279 INFO :: This message just shows basic information
+2023-01-27 19:33:03,279 WARNING :: This message is about something you should pay attention to
+2023-01-27 19:33:03,279 ERROR :: This message helps to debug an error that occurred in your program
+2023-01-27 19:33:13,381 INFO :: This message just shows basic information
+2023-01-27 19:33:13,381 WARNING :: This message is about something you should pay attention to
+2023-01-27 19:33:13,381 ERROR :: This message helps to debug an error that occurred in your program
+2023-01-27 19:34:45,537 INFO :: This message just shows basic information
+2023-01-27 19:34:45,537 WARNING :: This message is about something you should pay attention to
+2023-01-27 19:34:45,537 ERROR :: This message helps to debug an error that occurred in your program
+2023-01-27 19:40:16,253 INFO :: This message just shows basic information
+2023-01-27 19:40:16,253 WARNING :: This message is about something you should pay attention to
+2023-01-27 19:40:16,253 ERROR :: This message helps to debug an error that occurred in your program
+2023-01-27 19:40:16,253 INFO :: Hello from the Binance connector
+2023-01-27 19:47:28,210 INFO :: This is logged in all cases
+2023-01-27 19:47:28,210 INFO :: This is logged only if we execute the main.py file
+2023-01-27 19:47:38,131 INFO :: This is logged in all cases
+2023-01-27 19:47:38,131 INFO :: This is logged only if we execute the main.py file
+2023-01-27 19:48:20,734 INFO :: This is logged in all cases
+2023-01-27 19:48:20,734 INFO :: This is logged only if we execute the main.py file
+2023-01-27 19:49:38,047 INFO :: This is logged in all cases
+2023-01-27 19:49:38,047 INFO :: This is logged only if we execute the main.py file
+2023-01-27 19:51:10,241 INFO :: This is logged in all cases
+2023-01-27 19:51:10,241 INFO :: This is logged only if we execute the main.py file
+2023-01-27 19:51:24,218 INFO :: This is logged in all cases
+2023-01-28 12:04:04,155 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:05:04,717 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:05:36,226 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:06:56,386 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:18:31,420 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:21:45,223 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:22:03,845 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:22:10,346 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:23:20,661 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:23:52,261 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:24:30,877 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:25:45,434 INFO :: Binance Futures Client succesfully initialized
+2023-01-28 12:27:45,993 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 19:57:36,971 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:06:50,672 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:42:00,672 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:42:01,568 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1102, 'msg': "Mandatory parameter 'type' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 20:42:33,827 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:42:35,160 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1102, 'msg': "Mandatory parameter 'type' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 20:49:24,276 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:51:36,876 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:52:15,564 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:52:16,812 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 20:52:39,757 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:52:41,204 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 20:53:03,136 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:53:04,903 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 20:55:12,022 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:55:16,470 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 20:58:02,734 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 20:58:04,371 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 21:02:20,725 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:06:57,570 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:06:59,003 ERROR :: Error while making DELETE request to /fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (error code 400)
+2023-01-30 21:08:58,313 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:08:59,654 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 21:09:00,192 ERROR :: Error while making DELETE request to /fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (error code 400)
+2023-01-30 21:09:18,284 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:09:19,854 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 21:09:36,364 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:09:37,885 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 21:10:51,828 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:11:09,718 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:14:47,373 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:14:48,581 ERROR :: Error while making GET request to /fapi/v1/order: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 21:15:11,428 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:15:42,634 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:15:43,720 ERROR :: Error while making GET request to /fapi/v1/order: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 21:17:10,845 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:17:29,005 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:19:06,763 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:19:08,627 ERROR :: Error while making GET request to /fapi/v1/order: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2023-01-30 21:19:36,112 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:20:16,561 INFO :: Binance Futures Client succesfully initialized
+2023-01-30 21:20:39,895 INFO :: Binance Futures Client succesfully initialized
